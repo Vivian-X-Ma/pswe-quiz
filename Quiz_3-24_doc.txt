@@ -2,5 +2,3 @@ Teammates:
 Vivian Ma, mav, client
 Alison Zou, zoua2, project manager
 Ellie Jones, jonesea9, developer
-
-
